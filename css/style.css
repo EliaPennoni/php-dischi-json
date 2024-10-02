@@ -1,0 +1,10 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  width: calc(100% / 3);
+}
+.card img {
+  max-width: 300px;
+}
